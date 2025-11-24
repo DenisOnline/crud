@@ -1,0 +1,22 @@
+INSERT INTO users (username, password, role)
+VALUES
+    ('denis.shulzhenko@gmail.com', '$2b$12$2jBqIQ0qkO6LOPB1RHbYLe1JLhXXSHSGUxQcfkiw.HKZ9YpJWi4Ti', 'ADMIN'),
+    ('john.smith@gmail.com', '$2b$12$2jBqIQ0qkO6LOPB1RHbYLe1JLhXXSHSGUxQcfkiw.HKZ9YpJWi4Ti', 'USER'),
+    ('jane.doe@gmail.com', '$2b$12$2jBqIQ0qkO6LOPB1RHbYLe1JLhXXSHSGUxQcfkiw.HKZ9YpJWi4Ti', 'USER'),
+    ('michael.brown@gmail.com', '$2b$12$2jBqIQ0qkO6LOPB1RHbYLe1JLhXXSHSGUxQcfkiw.HKZ9YpJWi4Ti', 'USER'),
+    ('emily.johnson@gmail.com', '$2b$12$2jBqIQ0qkO6LOPB1RHbYLe1JLhXXSHSGUxQcfkiw.HKZ9YpJWi4Ti', 'USER'),
+    ('david.wilson@gmail.com', '$2b$12$2jBqIQ0qkO6LOPB1RHbYLe1JLhXXSHSGUxQcfkiw.HKZ9YpJWi4Ti', 'ADMIN'),
+    ('sarah.miller@gmail.com', '$2b$12$2jBqIQ0qkO6LOPB1RHbYLe1JLhXXSHSGUxQcfkiw.HKZ9YpJWi4Ti', 'USER'),
+    ('robert.davis@gmail.com', '$2b$12$2jBqIQ0qkO6LOPB1RHbYLe1JLhXXSHSGUxQcfkiw.HKZ9YpJWi4Ti', 'USER'),
+    ('linda.garcia@gmail.com', '$2b$12$2jBqIQ0qkO6LOPB1RHbYLe1JLhXXSHSGUxQcfkiw.HKZ9YpJWi4Ti', 'USER'),
+    ('james.martin@gmail.com', '$2b$12$2jBqIQ0qkO6LOPB1RHbYLe1JLhXXSHSGUxQcfkiw.HKZ9YpJWi4Ti', 'USER'),
+    ('patricia.thomas@gmail.com', '$2b$12$2jBqIQ0qkO6LOPB1RHbYLe1JLhXXSHSGUxQcfkiw.HKZ9YpJWi4Ti', 'ADMIN'),
+    ('alice.wilson@gmail.com', '$2b$12$2jBqIQ0qkO6LOPB1RHbYLe1JLhXXSHSGUxQcfkiw.HKZ9YpJWi4Ti', 'USER'),
+    ('brian.moore@gmail.com', '$2b$12$2jBqIQ0qkO6LOPB1RHbYLe1JLhXXSHSGUxQcfkiw.HKZ9YpJWi4Ti', 'USER'),
+    ('claire.taylor@gmail.com', '$2b$12$2jBqIQ0qkO6LOPB1RHbYLe1JLhXXSHSGUxQcfkiw.HKZ9YpJWi4Ti', 'USER'),
+    ('daniel.anderson@gmail.com', '$2b$12$2jBqIQ0qkO6LOPB1RHbYLe1JLhXXSHSGUxQcfkiw.HKZ9YpJWi4Ti', 'USER'),
+    ('eva.thompson@gmail.com', '$2b$12$2jBqIQ0qkO6LOPB1RHbYLe1JLhXXSHSGUxQcfkiw.HKZ9YpJWi4Ti', 'ADMIN'),
+    ('frank.harris@gmail.com', '$2b$12$2jBqIQ0qkO6LOPB1RHbYLe1JLhXXSHSGUxQcfkiw.HKZ9YpJWi4Ti', 'ADMIN'),
+    ('grace.clark@gmail.com', '$2b$12$2jBqIQ0qkO6LOPB1RHbYLe1JLhXXSHSGUxQcfkiw.HKZ9YpJWi4Ti', 'USER'),
+    ('henry.lewis@gmail.com', '$2b$12$2jBqIQ0qkO6LOPB1RHbYLe1JLhXXSHSGUxQcfkiw.HKZ9YpJWi4Ti', 'USER'),
+    ('jack.walker@gmail.com', '$2b$12$2jBqIQ0qkO6LOPB1RHbYLe1JLhXXSHSGUxQcfkiw.HKZ9YpJWi4Ti', 'USER');
